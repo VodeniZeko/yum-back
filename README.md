@@ -8,7 +8,7 @@ Run `npm install`
 
 #### Starting the server
 
-Run `npm start`. The server will be found at [http://localhost:3030]
+Run `npm start`. The server will be found at *localhost:3030*
 
 #### Using the server
 
