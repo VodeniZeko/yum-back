@@ -1,16 +1,16 @@
-# Ice-cream-maker-server
+## Ice-cream-maker-server
 
-### A server for the ["Ice-cream-maker"](https://github.com/VodeniZeko/yum-front) App
+#### A server for the ["Ice-cream-maker"](https://github.com/VodeniZeko/yum-front) App
 
-## Installing
+#### Installing
 
 Run `npm install`
 
-## Starting the server
+#### Starting the server
 
 Run `npm start`. The server will be found at [http://localhost:3030]
 
-## Using the server
+#### Using the server
 
 Server routes:
 
@@ -18,6 +18,6 @@ Server routes:
 - `POST /order` returns a random order number (does not process order)
 - images via static `/images` directory.
 
-## Testing
+#### Testing
 
 To test, run `npm test`.
